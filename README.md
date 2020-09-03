@@ -1,4 +1,4 @@
-# banking_loan_modelling
+# Marketting Campaign for Banking Projects
 Objective:
         The classification goal is to predict the likelihood of a liability customer buying personal loans.
         
